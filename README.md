@@ -1,2 +1,2 @@
 # 4Balls_Procedural
-Using Processing to make a 4 balls in procedural programming format
+Using Processing to complete a 4 balls challenge in procedural programming format
